@@ -293,6 +293,7 @@ FW_VERSIONS = {
       b'\xf1\x00TM ESC \x04 103"\x07\x08 58910-S2GA0',
       b'\xf1\x00TM ESC \x1b 102 \x08\x08 58910-S1DA0',
       b'\xf1\x00TM ESC \x1e 102 \x08\x08 58910-S1DA0',
+      b"\xf1\x00TM ESC \r 103!\x03' 58910-S1CA0",
       b'\xf1\x00TM ESC   103!\x030 58910-S1MA0',
     ],
     (Ecu.eps, 0x7d4, None): [
@@ -303,6 +304,7 @@ FW_VERSIONS = {
     ],
     (Ecu.fwdCamera, 0x7c4, None): [
       b'\xf1\x00TM  MFC  AT EUR LHD 1.00 1.03 99211-S1500 210224',
+      b'\xf1\x00TM  MFC  AT GEN RHD 1.00 1.05 99211-S1500 220126',
       b'\xf1\x00TM  MFC  AT MES LHD 1.00 1.05 99211-S1500 220126',
       b'\xf1\x00TMA MFC  AT MEX LHD 1.00 1.01 99211-S2500 210205',
       b'\xf1\x00TMA MFC  AT USA LHD 1.00 1.00 99211-S2500 200720',
