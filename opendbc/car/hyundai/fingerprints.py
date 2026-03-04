@@ -293,7 +293,7 @@ FW_VERSIONS = {
       b'\xf1\x00TM ESC \x04 103"\x07\x08 58910-S2GA0',
       b'\xf1\x00TM ESC \x1b 102 \x08\x08 58910-S1DA0',
       b'\xf1\x00TM ESC \x1e 102 \x08\x08 58910-S1DA0',
-      b"\xf1\x00TM ESC \r 103!\x03' 58910-S1CA0",
+      b'\xf1\x00TM ESC \r 103!\x03' 58910-S1CA0',
       b'\xf1\x00TM ESC   103!\x030 58910-S1MA0',
     ],
     (Ecu.eps, 0x7d4, None): [
